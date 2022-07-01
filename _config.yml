@@ -1,7 +1,7 @@
-title: "Dean Sadler"
+title: "Brent Sadler"
 author: "Dean Sadler"
 #description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
-description: "&copy; Dean Sadler"
+description: "&copy; Brent Sadler"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -22,11 +22,11 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 #  - {file: "blog.md",  title: Blog}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:info@deansadler.com"}
+  - {title: Mail, icon: envelope, url: "mailto:info@brentsadler.net"}
 #  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Twitter, icon: twitter, url: "https://twitter.com"}
-  - {title: facebook, icon: facebook, url: "https://facebook.com"}
-  - {title: Instagram, icon: instagram, url: "https://instagram.com"}
+#  - {title: Twitter, icon: twitter, url: "https://twitter.com"}
+  - {title: facebook, icon: facebook, url: "https://www.facebook.com/BrentSadlerCustomPanting/"}
+#  - {title: Instagram, icon: instagram, url: "https://instagram.com"}
 # - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
